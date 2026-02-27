@@ -17,7 +17,7 @@ object MetroTheme {
 
         when (bg) {
             "black" -> content.setBackgroundColor(Color.BLACK)
-            "img0" -> content.setBackgroundResource(R.drawable.img0)
+            "img0" -> content.setBackgroundResource(R.drawable.img_bg_0)
             "img1" -> content.setBackgroundResource(R.drawable.img1)
             "img2" -> content.setBackgroundResource(R.drawable.img2)
             else -> content.setBackgroundColor(Color.WHITE)
