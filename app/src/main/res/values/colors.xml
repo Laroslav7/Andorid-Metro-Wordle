@@ -1,0 +1,9 @@
+<resources>
+    <color name="metro_blue">#2d89ef</color>
+    <color name="metro_green">#00a300</color>
+    <color name="metro_yellow">#e3a21a</color>
+    <color name="metro_dark">#1d1d1d</color>
+    <color name="tile_absent">#3a3a3c</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
